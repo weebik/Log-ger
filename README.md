@@ -50,11 +50,11 @@ lap_number,lap_time,best_time,delta_best,delta_prev,fuel_used,fuel_left,tyre_wea
 ```
 
 ## Installation:
-1) Installation:
-    a) Content Manager (CM):
-    Drag and drop .zip file on content manager and click install
-    b) Assetto Corsa:
-    Copy the Log-ger folder into your Assetto Corsa apps folder:
+1) Installation:</br>
+    a) Content Manager (CM):</br>
+    Drag and drop .zip file on content manager and click install</br>
+    b) Assetto Corsa:</br>
+    Copy the Log-ger folder into your Assetto Corsa apps folder:</br>
     `Documents\Assetto Corsa\apps\Log-ger`
 2) Launch Assetto Corsa and enable Python apps in-game.
 3) Start Log-ger from the apps menu.
@@ -85,4 +85,5 @@ Log-ger/
 ├─ logger_module.py  # LapLogger and CSV handling
 ├─ sim_reader.py     # Accesses Assetto Corsa shared memory
 └─ third_party/      # ctypes and sim_info that allows to properly extract data from ac session
+
 ```
