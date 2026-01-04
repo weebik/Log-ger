@@ -29,7 +29,7 @@ To maintain clean file management and easy access, all CSV files are saved to:
 This ensures:
 - Every session has a unique file
 - Multiple sessions can be stored without conflicts
-- 
+
 Recommended data format in Excel for times:
 `[m]:ss.000;-[m]:ss.000` 
 This allows proper display of lap times in minutes, seconds, and milliseconds.
@@ -87,3 +87,4 @@ Log-ger/
 └─ third_party/      # ctypes and sim_info that allows to properly extract data from ac session
 
 ```
+
